@@ -22,7 +22,7 @@ minio:latest
 dfs:6.09
 sentinel-dashboard:1.8.4
 seata-server:1.5.1
-jenkins:lts
-jenkins:jdk17
+#jenkins:lts
+#jenkins:jdk17
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
